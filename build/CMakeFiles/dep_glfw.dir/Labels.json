@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw-complete.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-build.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-configure.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-download.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-install.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-patch.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-test.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glfw"
+		],
+		"name" : "dep_glfw"
+	}
+}

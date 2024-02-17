@@ -1,0 +1,14 @@
+# Target labels
+ dep_spdlog
+# Source files and their labels
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog.rule
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog-complete.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-build.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-configure.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-download.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-install.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-mkdir.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-patch.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-test.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-update.rule

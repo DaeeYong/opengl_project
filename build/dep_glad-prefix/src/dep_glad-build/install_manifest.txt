@@ -1,0 +1,7 @@
+/Users/ivory/Documents/github/opengl_project/build/install/lib/libglad.a
+/Users/ivory/Documents/github/opengl_project/build/install/include/KHR/khrplatform.h
+/Users/ivory/Documents/github/opengl_project/build/install/include/glad/glad.h
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glad/gladConfig.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glad/gladConfigVersion.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glad/gladTargets.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glad/gladTargets-noconfig.cmake

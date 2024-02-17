@@ -1,0 +1,14 @@
+# Target labels
+ dep_glfw
+# Source files and their labels
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw.rule
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw-complete.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-build.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-configure.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-download.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-install.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-mkdir.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-patch.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-test.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-stamp/dep_glfw-update.rule

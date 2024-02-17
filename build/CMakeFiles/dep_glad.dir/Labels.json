@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad-complete.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-build.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-configure.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-download.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-install.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-patch.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-test.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glad"
+		],
+		"name" : "dep_glad"
+	}
+}

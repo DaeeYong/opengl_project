@@ -1,0 +1,8 @@
+/Users/ivory/Documents/github/opengl_project/build/install/include/GLFW/glfw3.h
+/Users/ivory/Documents/github/opengl_project/build/install/include/GLFW/glfw3native.h
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glfw3/glfw3Config.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+/Users/ivory/Documents/github/opengl_project/build/install/lib/pkgconfig/glfw3.pc
+/Users/ivory/Documents/github/opengl_project/build/install/lib/libglfw3.a

@@ -1,0 +1,6 @@
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/opengl_project.dir
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog.dir
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glfw.dir
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad.dir
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/edit_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/rebuild_cache.dir

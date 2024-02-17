@@ -1,0 +1,14 @@
+# Target labels
+ dep_glad
+# Source files and their labels
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad.rule
+/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_glad-complete.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-build.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-configure.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-download.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-install.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-mkdir.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-patch.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-test.rule
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-stamp/dep_glad-update.rule

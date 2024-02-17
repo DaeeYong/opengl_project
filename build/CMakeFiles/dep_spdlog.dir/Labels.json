@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/CMakeFiles/dep_spdlog-complete.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-build.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-configure.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-download.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-install.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-patch.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-test.rule"
+		},
+		{
+			"file" : "/Users/ivory/Documents/github/opengl_project/build/dep_spdlog-prefix/src/dep_spdlog-stamp/dep_spdlog-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_spdlog"
+		],
+		"name" : "dep_spdlog"
+	}
+}

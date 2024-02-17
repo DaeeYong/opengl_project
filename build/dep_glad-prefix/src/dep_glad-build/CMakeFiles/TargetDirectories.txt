@@ -1,0 +1,8 @@
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad-generate-files.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/glad.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/edit_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/rebuild_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/list_install_components.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/install.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/install/local.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glad-prefix/src/dep_glad-build/CMakeFiles/install/strip.dir

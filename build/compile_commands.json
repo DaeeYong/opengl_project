@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ivory/Documents/github/opengl_project/build",
+  "command": "/usr/bin/clang++  -I/Users/ivory/Documents/github/opengl_project/build/install/include -framework Cocoa -framework IOKit -framework OpenGL -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/opengl_project.dir/src/main.cpp.o -c /Users/ivory/Documents/github/opengl_project/src/main.cpp",
+  "file": "/Users/ivory/Documents/github/opengl_project/src/main.cpp",
+  "output": "CMakeFiles/opengl_project.dir/src/main.cpp.o"
+}
+]

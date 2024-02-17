@@ -1,0 +1,14 @@
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/uninstall.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/edit_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/rebuild_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/list_install_components.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/install.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/install/local.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/CMakeFiles/install/strip.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/glfw.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/edit_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/rebuild_cache.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/list_install_components.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/install.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/install/local.dir
+/Users/ivory/Documents/github/opengl_project/build/dep_glfw-prefix/src/dep_glfw-build/src/CMakeFiles/install/strip.dir
