@@ -1,4 +1,7 @@
 #define GL_SILENCE_DEPRECATION
+
+#include "common.h"
+#include "shader.h"
 #include <spdlog/spdlog.h>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
@@ -6,7 +9,7 @@
 
 #define WINDOW_WIDTH 640
 #define WINDOW_HEIGHT 480
-#define WINDOW_NAME "Hello, opengl"
+#define WINDOW_NAME "mac"
 
 using namespace std;
 
@@ -65,7 +68,9 @@ int main() {
     SPDLOG_INFO("Start main loop");
     while(!glfwWindowShouldClose(window)) {
 
+        //화면을 무슨 색으로 지울지 설정
         glClearColor(236/255.f, 230/255.f, 204/255.f, 0.0f);
+        //frame buffer를 clear하는 함수
         glClear(GL_COLOR_BUFFER_BIT);
         glfwSwapBuffers(window);
         glfwPollEvents();
@@ -79,7 +84,6 @@ int main() {
 void render(GLFWwindow* window) {
     
 }
-
 
 void OnFramebufferSizeChange(GLFWwindow* window, int width, int height) {
     SPDLOG_INFO("framebuffer size changed: ({} x {})", width, height);
